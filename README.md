@@ -1,6 +1,6 @@
 # OS/161 Scheduler MLFQ and FCFS Implementation
 
-**Team Members:** Khurram Valiyev
+**Team Members:** Khurram Valiyev, Chase Monigle
 
 ## Design
 

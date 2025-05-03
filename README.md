@@ -54,18 +54,18 @@ Compared to FCFS and round-robin, MLFQ offers better responsiveness for interact
 
 ## Default
 
-![SS1] (Screenshot_378.png)
-![SS2] (Screenshot_379.png)
+![SS1](Screenshot_378.png)
+![SS2](Screenshot_379.png)
 
 ## FCFS
 
-![SS3] (Screenshot_380.png)
-![SS4] (Screenshot_381.png)
-![SS5] (Screenshot_382.png)
-![SS6] (Screenshot_383.png)
+![SS3](Screenshot_380.png)
+![SS4](Screenshot_381.png)
+![SS5](Screenshot_382.png)
+![SS6](Screenshot_383.png)
 
 ## MLFQ
 
 
-![SS7] (Screenshot_385.png)
-![SS8] (Screenshot_386.png)
+![SS7](Screenshot_385.png)
+![SS8](Screenshot_386.png)
